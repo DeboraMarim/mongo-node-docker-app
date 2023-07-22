@@ -19,7 +19,7 @@ A Dockerized application using Node.js and MongoDB to fetch data from an API and
 ### Prerequisites
 
 - Docker and Docker Compose installed
-- Node.js (version XX)
+- Node.js (version > 14)
 
 ### Steps
 
